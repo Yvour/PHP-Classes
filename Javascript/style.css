@@ -1,0 +1,30 @@
+
+.orderbutton{width:88%;height:100%; border: 1px solid yellow;text-align:justify;}
+
+.one{background : #DDFFDD; }
+.two{background : #CCCCCC;color:red; border-color: yellow;}
+
+.grey0{background: #999999;}
+.grey1{background: #AAAAAA;}
+
+.inputfieldchecked{background: #00ff00;}
+.inputfielderror{background: #ff0000;}
+
+
+.menu{display:none; border: 6px solid blue; background:#FFFFFF; overflow: hidden;float:left;};
+
+.linkbutton{border:23px solid red; }
+
+*div{border: 3px solid blue;}
+.datacell{width:100%;height:100%;border: 1px solid yellow;};
+
+.innerbutton{border:1px solid green; height:100%;min-height:100%;font-size:5px;}
+.innertable { border: none; width:100%}
+.innertable td { border: none}
+table {background: #E4E4E4; border-collapse: collapse; border: 1px solid black;}
+table td {border : 1px groove blue;font-stretch:ultra-condensed ;font-size:inherited;}
+*{font-size:12px; font-stretch:ultra-condensed;font-family:Arial;margin:1;padding:0;}
+body {background: #E4E4E4;  font-size: font-family:Arial;}
+input {font-size: inherited;}
+;input[type=submit]{border:1px solid green; height:100%;min-height:100%;}
+
